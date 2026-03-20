@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![BolBor Logo](frontend/public/logo.png)
+![BolBor Logo](logo.png)
 
 **Speak. Manage. Grow.**
 
